@@ -1,8 +1,9 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/wSTSju32OFAI0Fifkm/giphy.gif" />
+  <br>
+  <a href=#><img src="contributions.svg"></a>
+  <br><br>
+  { VISITOR COUNT }
+  <br>
   <img src="https://profile-counter.glitch.me/uzilekz/count.svg" />
 </p>
