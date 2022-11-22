@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="name.svg"></img>
   <img src="https://media.giphy.com/media/wSTSju32OFAI0Fifkm/giphy.gif" />
   <br>
   <a href=#><img src="contributions.svg"></a>
